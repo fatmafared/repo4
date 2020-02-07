@@ -1,0 +1,21 @@
+.btn{
+background-color: gainsboro;
+    color: white;
+    padding: 14px 16px;
+    float: left;
+    border: none;
+    width: 25%;
+    cursor:pointer;
+    
+}
+.btn:hover{
+    background-color: orange;
+}
+.row{
+background-color: blue;    
+    padding: 100px 20px;
+    display: none;
+}
+#java script{background-color: orange};
+#Ruby{background-color: orange};
+#PHP{background-color: orange};
